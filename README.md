@@ -1,9 +1,9 @@
-# 3d-earth
+# 3D-Earth项目
 
 > A Vue.js project for 3D Earth
 > three.JS learn
 
-## Build Setup
+## 构建项目
 
 ``` bash
 # install dependencies
